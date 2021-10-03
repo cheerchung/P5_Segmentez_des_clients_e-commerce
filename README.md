@@ -19,4 +19,6 @@ Votre mission est d’aider les équipes d’Olist à comprendre les différents
 
 <b>POlist_functions_03</b>: personal functions including: calculation of gini index, PCA graph, radar plot etc.<br>
 <b>POlist_notebookEDA</b>: Exploration data analysis of client information with historical purchases, including: RFM analysis, orders over time, geo location<br>
-<b>POlist_notebookSegmentation</b>: KMeans, DBSCAN, Clustering hierarchical, evaluation with gini, silhouette score, TSNE and PCA
+Colab notebook: https://colab.research.google.com/drive/1BguL_a3M4-FHw139e4AtsX64UVHnkLxe?usp=sharing <br>
+<b>POlist_notebookSegmentation</b>: KMeans, DBSCAN, Clustering hierarchical, evaluation with gini, silhouette score, TSNE and PCA<br>
+Colab notebook: https://colab.research.google.com/drive/1JPY4tjN7BtgcQDGhTzoPqMNflxG4WeGQ?usp=sharing
